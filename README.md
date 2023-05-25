@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![](https://github.com/505-NN-505/timer_app/blob/main/demo/timer_demo.gif)
+<img src="/demo/timer_demo.gif" width="250" height="250"/>
 
 A few resources to get you started if this is your first Flutter project:
 
