@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src="/demo/timer_demo.gif" width="250" height="250"/>
+<img src="/demo/timer_demo.gif" width="25%" height="25%"/>
 
 A few resources to get you started if this is your first Flutter project:
 
